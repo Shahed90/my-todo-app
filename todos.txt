@@ -1,0 +1,7 @@
+clean
+write
+play
+sleep
+watch
+Get the paper
+Clean the bag
